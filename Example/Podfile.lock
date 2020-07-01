@@ -1,0 +1,16 @@
+PODS:
+  - ExtPromise (0.0.1)
+
+DEPENDENCIES:
+  - ExtPromise (from `../`)
+
+EXTERNAL SOURCES:
+  ExtPromise:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ExtPromise: d40c26ef01a45b8186d9fd082170bea7983ea11d
+
+PODFILE CHECKSUM: b3487f0e0035e9005353accb6ec4bfc9fceabdb5
+
+COCOAPODS: 1.9.3
